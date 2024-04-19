@@ -77,6 +77,7 @@ const Index = () => {
 
   return (
     <Box p={5}>
+      CATHEGORY ESDITOR
       <Flex justifyContent="space-between" mb={5}>
         <Box flex="1" mr={2}>
           <form onSubmit={handleSubmit}>
